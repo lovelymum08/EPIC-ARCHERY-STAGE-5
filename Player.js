@@ -8,7 +8,7 @@ class Player {
 
     this.width = width;
     this.height = height;
-    this.image = loadImage("./assets/player.png");
+    this.image = loadImage("player.png");
     this.life1 = "pink";
     this.life2 = "pink";
     this.life3 = "pink";
